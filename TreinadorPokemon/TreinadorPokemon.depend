@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1656218819 source:c:\cpp_programs_from_book\treinadorpokemon\src\evolutionball .cpp
+	"EvolutionBall .h"
+
+1656193575 c:\cpp_programs_from_book\treinadorpokemon\include\evolutionball .h
+	"Pokebola.h"
+
+1656256026 c:\cpp_programs_from_book\treinadorpokemon\include\pokebola.h
+	"PokemonCapturado .h"
+	"Pokemon.h"
+
+1656218829 source:c:\cpp_programs_from_book\treinadorpokemon\src\healthball .cpp
+	"HealthBall .h"
+
+1656207815 c:\cpp_programs_from_book\treinadorpokemon\include\healthball .h
+	"Pokebola.h"
+	<ctime>
+
+1656376821 source:c:\cpp_programs_from_book\treinadorpokemon\src\pokebola.cpp
+	"Pokebola.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1656254575 source:c:\cpp_programs_from_book\treinadorpokemon\main.cpp
+	"EvolutionBall .h"
+	"HealthBall .h"
+	"Treinador.h"
+	<iostream>
+	<cstdlib>
+	<chrono>
+	<thread>
+	<string>
+	<cmath>
+
+1656190223 c:\cpp_programs_from_book\treinadorpokemon\include\evolutionball.h
+	"Pokebola.h"
+
+1656190185 c:\cpp_programs_from_book\treinadorpokemon\include\pokemoncapturado.h
+	"Pokemon.h"
+
+1656203655 c:\cpp_programs_from_book\treinadorpokemon\include\pokemon.h
+	<string>
+
+1656190229 c:\cpp_programs_from_book\treinadorpokemon\include\healthball.h
+	"Pokebola.h"
+	<ctime>
+
+1656191492 c:\cpp_programs_from_book\treinadorpokemon\include\treinador.h
+	<string>
+	<vector>
+	"EvolutionBall .h"
+	"HealthBall .h"
+
+1656257871 source:c:\cpp_programs_from_book\treinadorpokemon\src\pokemon.cpp
+	"Pokemon.h"
+	<iostream>
+
+1656377164 source:c:\cpp_programs_from_book\treinadorpokemon\src\treinador.cpp
+	"Treinador.h"
+	<iostream>
+
+1656203031 c:\cpp_programs_from_book\treinadorpokemon\include\pokemoncapturado .h
+	"Pokemon.h"
+
+1656257420 source:c:\cpp_programs_from_book\treinadorpokemon\src\pokemoncapturado .cpp
+	"PokemonCapturado .h"
+
